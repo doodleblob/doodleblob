@@ -1,10 +1,10 @@
 ### Hey, I'm Charlie 👋
 
-[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcharles.barry.network)][website] [![Discord](https://img.shields.io/discord/879424884042764299?style=for-the-badge&label=Discord)]()
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcharles.barry.network)][website] [![Discord](https://img.shields.io/discord/879424884042764299?style=for-the-badge&label=Discord)](#)
 
 ## I'm a Computer Science Graduate with an interest in Cyber Security
 - 🔭 I’m currently working on my website.
-- 🌱 I’m currently learning to be a jack of all trades <details><summary></summary>(master of none 😭)</details>
+- 🌱 I’m currently learning networking 😭
 - 😄 Pronouns: He/Him
 - 🥅 2021 Goals: Develop something I can really be proud of!
 - ⚡ Fun fact: I love live music, gigs and festivals!
