@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my website.
 - 🌱 I’m currently learning networking 😭
 - 😄 Pronouns: He/Him
-- 🥅 2021 Goals: Develop something I can really be proud of!
+- 🥅 2022 Goals: Develop something I can really be proud of!
 - ⚡ Fun fact: I love live music, gigs and festivals!
 
 ### Connect with me:
